@@ -7,3 +7,6 @@ def bar():
 def baz():
     pass
 
+def bug():
+    pass
+
