@@ -36,7 +36,7 @@ def save(id_: int, instance: dict, debug: bool = False) -> dict:
 
 
 def update(id_: int, instance: dict, debug: bool = False) -> dict:
-    player: dict = get(id_=id_) #noqa
+    player: dict = get(id_=id_)  # noqa
     _TEAM[id_] = instance
 
     return instance
