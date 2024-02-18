@@ -1,0 +1,106 @@
+{
+    "results": [
+        {
+            "currency_from": "USD",
+            "currency_to": "CHF",
+            "rate": 0.8809,
+            "timestamp": "17.02.24 - 21:37:27"
+        },
+        {
+            "currency_from": "UAH",
+            "currency_to": "CHF",
+            "rate": 0.02314,
+            "timestamp": "17.02.24 - 21:37:27"
+        },
+        {
+            "currency_from": "CHF",
+            "currency_to": "USD",
+            "rate": 1.1347,
+            "timestamp": "17.02.24 - 21:37:27"
+        }
+    ]
+}{
+    "results": [
+        {
+            "currency_from": "USD",
+            "currency_to": "CHF",
+            "rate": 0.8809,
+            "timestamp": "17.02.24 - 21:37:57"
+        },
+        {
+            "currency_from": "UAH",
+            "currency_to": "CHF",
+            "rate": 0.02314,
+            "timestamp": "17.02.24 - 21:37:57"
+        },
+        {
+            "currency_from": "CHF",
+            "currency_to": "USD",
+            "rate": 1.1347,
+            "timestamp": "17.02.24 - 21:37:57"
+        }
+    ]
+}{
+    "results": [
+        {
+            "currency_from": "USD",
+            "currency_to": "CHF",
+            "rate": 0.8809,
+            "timestamp": "18.02.24 - 22:38:19"
+        },
+        {
+            "currency_from": "UAH",
+            "currency_to": "CHF",
+            "rate": 0.02314,
+            "timestamp": "18.02.24 - 22:38:19"
+        },
+        {
+            "currency_from": "CHF",
+            "currency_to": "USD",
+            "rate": 1.1347,
+            "timestamp": "18.02.24 - 22:38:19"
+        }
+    ]
+}{
+    "results": [
+        {
+            "currency_from": "USD",
+            "currency_to": "CHF",
+            "rate": 0.8809,
+            "timestamp": "18.02.24 - 22:57:51"
+        },
+        {
+            "currency_from": "UAH",
+            "currency_to": "CHF",
+            "rate": 0.02314,
+            "timestamp": "18.02.24 - 22:57:51"
+        },
+        {
+            "currency_from": "CHF",
+            "currency_to": "USD",
+            "rate": 1.1347,
+            "timestamp": "18.02.24 - 22:57:51"
+        }
+    ]
+}{
+    "results": [
+        {
+            "currency_from": "USD",
+            "currency_to": "CHF",
+            "rate": 0.88081,
+            "timestamp": "18.02.24 - 23:03:11"
+        },
+        {
+            "currency_from": "UAH",
+            "currency_to": "CHF",
+            "rate": 0.02314,
+            "timestamp": "18.02.24 - 23:03:11"
+        },
+        {
+            "currency_from": "CHF",
+            "currency_to": "USD",
+            "rate": 1.13053,
+            "timestamp": "18.02.24 - 23:03:11"
+        }
+    ]
+}
